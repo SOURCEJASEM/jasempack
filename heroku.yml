@@ -1,6 +1,6 @@
 build:
   docker:
       worker: Dockerfile
-      worker: bash setx.sh
+      worker: bash setx.sH#
 run:
    worker: python3 -m userbot
